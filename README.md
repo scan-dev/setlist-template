@@ -1,6 +1,6 @@
 # Setlist Project
 
-Project for managing songs and setlist.
+Project for managing songs and setlists.
 ## Obsidian vault
 
 Usage as vault with [Obsidian](https://obsidian.md)

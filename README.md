@@ -28,6 +28,7 @@ Default plugins include with this template (needs activating whn added to your o
 ### 2. Create New Song
 - `right-click` on **songs folder** 
 - select ``add note`
+- enter name of your new song
 - New songs created from the template with add's songs on Songs Overview list
 ### 3. Create order for songs in Setlist
 

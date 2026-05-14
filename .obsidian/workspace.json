@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "setlist/Sample.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Sample"
             }
           }
         ]
@@ -194,14 +194,14 @@
   },
   "active": "ccb979cb1c2d23b8",
   "lastOpenFiles": [
-    "pdf/README.pdf",
-    "songs/Sample Song 2.md",
-    "README.md",
-    "songs/Sample Song 1.md",
-    "setlist/Sample.md",
     "setlist/Songs Overview.md",
-    "setlist/Untitled.md",
+    "songs/Sample Song 2.md",
+    "songs/Sample Song 1.md",
     "templates/song.md",
+    "README.md",
+    "pdf/README.pdf",
+    "setlist/Sample.md",
+    "setlist/Untitled.md",
     "templates/setlist.md",
     "setlist/Sample2.md",
     "setlist/sample.md",
@@ -230,7 +230,6 @@
     "pdf/In The Night Time.pdf",
     "pdf/In the night time.pdf",
     "pdf/21 - Anytime You Want.pdf",
-    "pdf/16 - Can't you see.pdf",
     "band/TGR/TGR-stage-Banner-1.png",
     "band/TGR/TGR-billboard.jpg",
     "band/TGR/TGR_Bart.jpg",

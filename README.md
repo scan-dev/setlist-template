@@ -33,6 +33,13 @@ Default plugins include with this template (needs activating whn added to your o
 
 If you want to create a specific order on your setlist add a tag **<setlist_name> : <songs_order>**
  the lsit wil show the songs on the order that you defined.
+
+for good order need to add leading '0' 's 
+songs
+> example: 
+> 	'<setlist_name>' 01 (for order 0-99)
+> 	'<selist_name>' 001 )(for oder 0-999)
+
 ### 4. Youtube links
 
 When you add a youtube-link in the tag youtube tag it will be listed in the setlist

@@ -8,7 +8,7 @@ youtube: URL
 tags:
   - song
   - sample
-sample: "1"
+sample: "01"
 ---
 ## [[Sample Song 1]]
 

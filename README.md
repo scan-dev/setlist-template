@@ -5,16 +5,17 @@ Project for managing songs and setlists.
 
 Usage as vault with [Obsidian](https://obsidian.md)
 
-Default plugins include with this template
+### Plugin's
+
+Default plugins include with this template (needs activating whn added to your obsidian)
 
 - Dataview
 - Git
 - Icon shortcodes
 - Iconizer
 - local REST API (for usage with AI chat agents)
-- Text generator (for usiage with AI systems)
-- 
-
+- Templater
+- Text generator (for usage with AI systems)
 
 ---
 ## Included Features :

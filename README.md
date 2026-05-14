@@ -5,6 +5,17 @@ Project for managing songs and setlists.
 
 Usage as vault with [Obsidian](https://obsidian.md)
 
+Default plugins include with this template
+
+- Dataview
+- Git
+- Icon shortcodes
+- Iconizer
+- local REST API (for usage with AI chat agents)
+- Text generator (for usiage with AI systems)
+- 
+
+
 ---
 ## Included Features :
 
@@ -27,7 +38,10 @@ When you add a youtube-link in the tag youtube tag it will be listed in the setl
 
 ### 5. Create PDF
 
-You can create a PDF file from a **Setlist** or a **Song** by `right-click` on a the **TAB HEADER !!** of an open file and selecting "export as PDF"
+You can create a PDF file from a **Setlist** or a **Song** by `right-click` on a the **TAB HEADER !!** in obsidian app of the file and selecting "export as PDF"
+### 6. Generate AI  
+
+If you want to create AI generated lyrics, create prompt in the folder **prompts** adn press <CTRL-J> to trigger an AI response with the provider configured in the **Text Generator** plugin.
 
 ---
 ## Samples

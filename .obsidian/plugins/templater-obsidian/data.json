@@ -17,6 +17,17 @@
     {
       "folder": "songs",
       "template": "templates/song.md"
+    },
+    {
+      "folder": "setlist",
+      "template": "templates/setlist.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
@@ -27,5 +38,6 @@
   "startup_templates": [
     ""
   ],
+  "intellisense_render": 1,
   "enable_ribbon_icon": true
 }

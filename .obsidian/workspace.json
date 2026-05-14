@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f496802bc403ba69",
+        "id": "cf8ee125d8300615",
         "type": "tabs",
         "children": [
           {
-            "id": "a809efa46bb99cfb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "6f13204248cf7d04",
+            "id": "876cfb1832733e21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "songs/Hard Times.md",
+                "file": "templates/setlist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hard Times"
+              "title": "setlist"
             }
           }
         ]
@@ -202,8 +192,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a809efa46bb99cfb",
+  "active": "876cfb1832733e21",
   "lastOpenFiles": [
+    "setlist/Untitled.md",
+    "setlist/Sample2.md",
+    "templates/setlist.md",
+    "setlist/sample.md",
+    "setlist/Songs Overview.md",
+    "LICENSE.md",
+    "templates/AI.md",
+    "setlist/Sample.md",
+    "templates/song.md",
+    "songs/Sample Song.md",
     "setlist/TC-TheBlueFlax.md",
     "songs/Leave it at the door.md",
     "songs/No pain.md",
@@ -220,21 +220,11 @@
     "songs/Catfish Blues.md",
     "songs/Ain't no sunshine.md",
     "setlist/Acoustic.md",
-    "setlist/Untitled.md",
     "band/TGR/20251221_132854.png",
     "band/TC-TheBlueFlax",
-    "songs/Five Minutes.md",
     "band/TGR",
     "Untitled",
-    "songs/Up to my neck in you.md",
-    "setlist/Brugotta 26-04-25.md",
-    "own/Funk in G.md",
-    "songs/Free Falling.md",
     "own",
-    "setlist/Jam.md",
-    "songs/Heroes.md",
-    "songs/Further on Down the line.md",
-    "songs/Blues I Believe to My Soul.md",
     "pdf/2024-06-19-Delivery Package Kiwi-Electronics.pdf",
     "pdf/Brugotta 26-04-25.pdf",
     "pdf/In The Night Time.pdf",

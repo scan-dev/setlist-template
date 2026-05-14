@@ -11,8 +11,8 @@ tags:
 
 
 ```dataview
-TABLE artist as Artist, youtube
+TABLE sample as Order, artist as Artist, youtube
 FROM "songs"
-WHERE contains(tags,"sample")
-SORT title
+WHERE contains(tags,"sample") and sample > 0
+SORT sample
 ```

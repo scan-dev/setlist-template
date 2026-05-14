@@ -8,8 +8,9 @@ youtube: URL
 tags:
   - song
   - sample
+sample: "2"
 ---
-## [[Sample Song]]
+## [[Sample Song 2]]
 
 >chords:
 >bridge:

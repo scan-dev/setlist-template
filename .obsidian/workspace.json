@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setlist/Sample.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample"
+              "title": "README"
             }
           }
         ]
@@ -194,14 +194,17 @@
   },
   "active": "ccb979cb1c2d23b8",
   "lastOpenFiles": [
-    "setlist/Untitled.md",
+    "pdf/README.pdf",
+    "songs/Sample Song 2.md",
+    "README.md",
+    "songs/Sample Song 1.md",
     "setlist/Sample.md",
-    "songs/Sample Song.md",
+    "setlist/Songs Overview.md",
+    "setlist/Untitled.md",
     "templates/song.md",
     "templates/setlist.md",
     "setlist/Sample2.md",
     "setlist/sample.md",
-    "setlist/Songs Overview.md",
     "LICENSE.md",
     "templates/AI.md",
     "setlist/TC-TheBlueFlax.md",
@@ -217,8 +220,6 @@
     "songs/Gravity.md",
     "songs/Hard Times.md",
     "songs/Loan Me a Dime.md",
-    "songs/Catfish Blues.md",
-    "songs/Ain't no sunshine.md",
     "band/TGR/20251221_132854.png",
     "band/TC-TheBlueFlax",
     "band/TGR",

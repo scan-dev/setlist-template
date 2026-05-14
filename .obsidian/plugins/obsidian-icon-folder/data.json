@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🫐",
+      "LiStars",
+      "🎼",
+      "TiGuitarPick",
+      "TiAdjustmentsExclamation"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "debugMode": false,
+    "iconInTitlePosition": "above",
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
+  },
+  "templates": "SiPowerautomate",
+  "setlist": "LiListMusic",
+  "setlist/Goldrush.md": "RaGoldBar",
+  "songs": "TiMusicCode",
+  "pdf": "FarFilePdf",
+  "archive": "LiArchive",
+  "setlist/Acoustic.md": "FasGuitar",
+  "setlist/Jam.md": "TiAdjustmentsExclamation",
+  "setlist/Real Time Blues Band.md": "TiGuitarPick",
+  "setlist/Songs Overview.md": "🎼",
+  "GEMINI.md": "LiStars",
+  "setlist/TC-TheBlueFlax.md": "🫐"
+}

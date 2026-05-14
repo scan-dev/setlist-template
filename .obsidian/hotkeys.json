@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:templates/AI.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
+}
